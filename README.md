@@ -1,5 +1,5 @@
 # node-broilerplate
-Broiler plate for Nodejs, Express and MongoDB with JWT authentication
+Broiler plate for REST Api with Nodejs, Express, MongoDB and JWT
 
 ## How to Run
 - open `package.json` change your needs.
